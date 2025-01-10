@@ -31,6 +31,8 @@ body {
 }
 
 .qr-image {
+  width: 100%;
+  height: auto;
   max-width: 288px;
   max-height: 288px;
   border-radius: 10px;
